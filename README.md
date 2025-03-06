@@ -30,3 +30,8 @@ werkzeug
 
 ## Installation
 python app.py
+
+
+![Image](https://github.com/user-attachments/assets/845724df-415f-4d66-8ab8-69fa49c7d3d2)
+
+![Image](https://github.com/user-attachments/assets/ab6f030d-cb17-473c-8cfd-5ada8865c041)
