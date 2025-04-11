@@ -9,17 +9,6 @@ This is a web application for predicting plant diseases from uploaded images usi
 - Provides detailed descriptions of identified plant diseases.
 - Built with Flask for an easy-to-use web interface.
 
-## Project Structure
-
-├── app.py                    # Main Flask application
-├── plant_disease_prediction_model.h5  # Pre-trained model file
-├── static/
-│   ├── uploads/               # Directory for uploaded images
-├── templates/
-│   ├── app.html               # Upload page
-│   ├── result.html            # Result display page
-├── requirements.txt           # List of dependencies
-└── README.md                  # Project documentation
 
 ## Dependencies
 Flask
